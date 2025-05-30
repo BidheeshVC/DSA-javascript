@@ -1,0 +1,176 @@
+45-Day Interview-Focused Plan
+Week 1-2: Essential Problem-Solving Patterns (Days 1-14)
+Focus: Build logical thinking with fundamental problems
+Daily Practice: 3-4 problems + 1 concept review
+Day 1-3: String Manipulation
+
+Reverse a string (multiple approaches)
+Check if string is palindrome
+Count character frequency
+Remove duplicates from string
+
+Day 4-7: Array Fundamentals
+
+Find max/min in array
+Two sum problem
+Remove duplicates from array
+Rotate array left/right
+
+Day 8-10: Basic Algorithms
+
+Linear search implementation
+Binary search (basic version)
+Simple sorting (bubble sort understanding)
+Find second largest element
+
+Day 11-14: Number Problems
+
+Check prime number
+Factorial (iterative and recursive)
+Fibonacci sequence
+Reverse number/check palindrome number
+
+Week 3-4: Intermediate Logic Building (Days 15-28)
+Focus: Patterns commonly asked in junior developer interviews
+Daily Practice: 4-5 problems
+Day 15-18: Pattern Problems
+
+Print number/star patterns
+Matrix traversal (row-wise, column-wise)
+Spiral matrix (basic understanding)
+Diagonal printing
+
+Day 19-22: Object and Array Manipulation
+
+Group objects by property
+Merge two sorted arrays
+Find intersection of arrays
+Count occurrences in array
+
+Day 23-25: String Advanced
+
+Anagram check
+Longest common prefix
+Valid parentheses (basic stack concept)
+String compression
+
+Day 26-28: Logical Puzzles
+
+FizzBuzz variations
+Missing number in array
+Duplicate finder
+Array chunk problems
+
+Week 5-6: Interview-Specific Skills (Days 29-42)
+Focus: Real interview questions for junior developers
+Daily Practice: 3-4 problems + mock interview practice
+Day 29-32: Function and Closure Problems
+
+Implement map, filter, reduce from scratch
+Currying examples
+Debounce/throttle implementation
+Cache function results
+
+Day 33-36: DOM Manipulation Logic
+
+Form validation logic
+Event handling scenarios
+Simple calculator logic
+To-do list operations
+
+Day 37-39: API and Async Patterns
+
+Promise-based problem solving
+Simple async/await exercises
+Data fetching and processing
+Error handling patterns
+
+Day 40-42: Mini Project Logic
+
+Shopping cart calculations
+User authentication logic
+CRUD operations logic
+Search and filter implementations
+
+Week 7: Final Preparation (Days 43-45)
+Focus: Mock interviews and review
+Daily Practice: 2-3 problems + interview simulation
+
+Review all solved problems
+Practice explaining solutions
+Time-bound problem solving
+Code review and optimization
+
+Essential Problem List for MERN Interviews
+Must-Know Problems (Practice these multiple times):
+Strings:
+
+Reverse string (3 different ways)
+Palindrome check
+Anagram detection
+Character frequency count
+Remove duplicates
+
+Arrays:
+
+Two sum
+Find max/min
+Remove duplicates
+Merge sorted arrays
+Array rotation
+Missing number
+Second largest element
+
+Objects:
+
+Group by property
+Deep clone object
+Merge objects
+Count properties
+Filter object properties
+
+Functions:
+
+Implement map/filter/reduce
+Function composition
+Currying implementation
+Debounce function
+Memoization
+
+Logical:
+
+FizzBuzz
+Prime number check
+Factorial
+Fibonacci
+Pattern printing
+Number reversal
+
+Daily Schedule (45 minutes - 1 hour):
+Morning (20 minutes):
+
+Solve 1-2 quick problems
+Review previous day's solutions
+
+Evening (25-40 minutes):
+
+Learn new concept/pattern
+Solve 2-3 new problems
+Practice explaining solutions aloud
+
+Interview Preparation Tips:
+Technical Skills to Emphasize:
+
+Clean, readable code
+Multiple solution approaches
+Time/space complexity awareness (basic)
+Edge case handling
+Problem breakdown skills
+
+Soft Skills for Interviews:
+
+Think out loud while coding
+Ask clarifying questions
+Explain your approach before coding
+Test your solution with examples
+Discuss alternative approaches
