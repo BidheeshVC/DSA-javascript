@@ -24,7 +24,7 @@ function reverseString(str) {
 }
 
 // Example input string
-const stringToReverse = "malayalam";
+const stringToReverse = "bidheesh";
 
 // Example usage: reverse the string
 const result = reverseString(stringToReverse); // Expected output: "olleh"
